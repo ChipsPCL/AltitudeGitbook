@@ -10,13 +10,13 @@ Treasury profits may be reinvested or used to support the future of the project.
 
 ## Mountain Wallet Inflows
 
-Potential Mountain Wallet inflows include:
+Mountain Wallet inflows include:
 
 * Taxes from BaseSwap and OMNI volume.
 * Fees from Altitude ecosystem products such as Mountain Miner, Farm, and Everest.
 * Allocations of yield from external revenue sources, including yield farming and staking.
 * Allocations of fees from Mountain-owned Altitude liquidity.
-* Crypto mining revenue, if applicable.
+* Crypto mining revenue.
 
 ## Mountain Wallet Supports
 
