@@ -2,7 +2,7 @@
 
 Altitude's sustainability relies on generating external inflows and using them to benefit the project.
 
-The Mountain Wallet treasury is designed to support Altitude through project-owned assets, Mountain-owned liquidity, and ecosystem revenue.
+The Mountain Wallet treasury is designed to support Altitude through project-owned assets, Mountain-owned liquidity (MOL), and ecosystem revenue.
 
 Mountain-owned liquidity means liquidity that the project controls or owns. This can help harden the token's price while also earning fees. In simple terms, the project is directly investing in itself while creating room to scale.
 
