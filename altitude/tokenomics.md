@@ -7,7 +7,7 @@
 | Name | Altitude |
 | Chain | Base |
 | Starting Supply | 210,000,000 ALTITUDE |
-| Minting | No additional tokens can be minted beyond the original supply |
+| Minting | No additional tokens can be minted |
 
 Altitude's deflationary nature means the total supply of the token reduces over time.
 
@@ -21,7 +21,7 @@ Altitude's website tracks token burns using:
 Tokens Burned = 210,000,000 - Current Total Supply
 ```
 
-This is based on the idea that burned tokens reduce the token's total supply.
+This is based burned tokens reduce the token's total supply.
 
 ## Tax Status
 
