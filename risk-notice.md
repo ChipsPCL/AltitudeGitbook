@@ -4,13 +4,12 @@ Altitude, Mountain Miner, the Everest Vault, and any future Altitude ecosystem p
 
 Users should understand the following before buying tokens, staking, depositing, farming, or interacting with any Altitude ecosystem contract:
 
-* Token prices can rise or fall significantly.
-* Liquidity can change over time.
-* Rewards are not guaranteed.
+* Token prices can rise or fall.
+* USDC Rewards are not guaranteed.
 * ROI rates are not guaranteed profit.
 * Smart contracts can contain bugs or vulnerabilities.
 * External protocols, DEXes, reward platforms, bridges, and liquidity venues can fail or change.
-* Treasury support and contract balance injections are not guaranteed forever.
+* Treasury support contract balance injections are not guaranteed forever.
 * Past performance does not guarantee future results.
 
 Mountain Miner is designed as a DeFi miner / ROI-style product. A displayed daily rate does not mean risk-free yield. Claims depend on contract rules, available USDC balance, user behaviour, and the wider ecosystem.
