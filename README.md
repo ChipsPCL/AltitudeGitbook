@@ -7,5 +7,5 @@ From day one, the core idea behind Altitude has been to generate external revenu
 These documents provide an overview of Altitude's core elements, including tokenomics, liquidity, rewards, treasury activity, ecosystem products, security, and the roadmap for the future.
 
 {% hint style="warning" %}
-Crypto and DeFi products are high risk. Token prices, rewards, ROI rates, treasury support, liquidity, and contract balances are not guaranteed. Users should always do their own research and only use funds they can afford to lose.
+Crypto and DeFi products are high risk. Token prices, rewards, ROI rates, treasury support and contract balances are not guaranteed. Users should always do their own research and only use funds they can afford to lose.
 {% endhint %}
