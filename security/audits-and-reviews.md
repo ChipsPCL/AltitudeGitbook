@@ -12,11 +12,11 @@ Audit PDF: to be added.
 
 ### ContractWolf Audit Report
 
-[📄 Open / Download the Everest ContractWolf Audit](ContractWolf_Audit_Altitude_Staking.pdf)
+[📄 Open / Download the Everest ContractWolf Audit](ContractWolf_Audit_Altitude_Staking(1).pdf)
 
 The audit is also independently published in ContractWolf's public audit repository:
 
-[View on ContractWolf GitHub](https://github.com/ContractWolf/smart-contract-audits/blob/main/ContractWolf_Audit_Altitude_Staking.pdf)
+[View on ContractWolf GitHub](https://github.com/ContractWolf/smart-contract-audits/blob/main/ContractWolf_Audit_Altitude_Staking(1).pdf)
 
 ## Notes
 
