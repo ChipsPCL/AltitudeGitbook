@@ -9,6 +9,7 @@
 
 * [Project Overview](altitude/overview.md)
 * [Altitude History](altitude/history.md)
+* [Altitude Restored](altitude-restored/README.md)
 * [Altitude Today](altitude/altitude-today.md)
 * [Tokenomics](altitude/tokenomics.md)
 * [Mountain Wallet Treasury](altitude/mountain-wallet-treasury.md)
