@@ -5,10 +5,10 @@ Altitude's roadmap focuses on building more utility from within the ecosystem wh
 ## Current Roadmap Items
 
 * Altitude Farming Protocol.
-* New Altitude/WETH liquidity pool on Aerodrome or Uniswap.
+* New Altitude liquidity pool on Aerodrome or Uniswap.
 * Explore loan options using Altitude as collateral.
 * Launch and support Mountain Miner Season 1.
-* Continue development of the Everest USDC Rewards Vault.
+* Continue development of the Everest Rewards Vault.
 * Continue building ecosystem products that can generate external revenue for the Mountain treasury.
 
 ## Long-Term Direction
