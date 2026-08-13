@@ -25,15 +25,23 @@ This is based burned tokens reduce the token's total supply.
 
 ## Tax Status
 
-After year one, taxes were largely removed from the project.
+As part of **Altitude Restored**, ALTITUDE has returned to an active transaction tax model designed to directly support the long-term ecosystem.
 
-A small 1% buy/sell tax is still applied to BaseSwap and OMNI DEX liquidity pool activity. This remains because, due to burned liquidity on those unsupported DEXes, it is the only way the project can earn anything from those pools.
+A **10% tax applies to buys and sells through recognised ALTITUDE liquidity pools**.
 
-Activity from other pools is tax free, including:
+The tax is split as follows:
 
-* Uniswap
-* Aerodrome
-* Other current and future tax-free liquidity venues
+- **1% Permanent Burn** — ALTITUDE is permanently removed from circulation.
+- **4% Mountain Wallet** — supports the Altitude treasury and wider project ecosystem.
+- **5% Everest Holder Rewards** — directed towards supporting the Everest reward system.
+
+This applies to both buys and sells.
+
+Normal wallet-to-wallet transfers remain **tax free**.
+
+Project activity is not exempt from the tokenomics. When the project buys ALTITUDE through a liquidity pool, it also pays the applicable transaction tax, meaning project-funded activity continues to contribute towards burns, the Mountain and Everest.
+
+Legacy burned liquidity remains part of the ecosystem alongside newer liquidity venues, allowing ALTITUDE to continue benefiting from trading activity across its available markets.
 
 {% hint style="info" %}
 Users should always check the current official information before trading, as routing can change between DEXes and aggregators.
