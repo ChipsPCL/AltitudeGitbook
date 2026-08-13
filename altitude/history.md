@@ -20,10 +20,10 @@ This model served the project well in the early days. However, after year one, t
 
 Although the original reflection model was largely removed, Altitude kept its deflationary identity.
 
-The project moved toward a more up-to-date reward model, including USDC reward campaigns through Merkl. The combination of reduced supply, buybacks, burns, and ongoing development helped Altitude reach its all-time high of `$0.0008782` in August 2025, ending an 18-month uptrend.
+The project looked toward a more up-to-date reward model, including USDC reward campaigns through Merkl. The combination of reduced supply, buybacks, burns, and ongoing development helped Altitude reach its all-time high of `$0.0008782` in August 2025, ending an 18-month uptrend.
 
 ## Challenges Along the Way
 
-Altitude has faced challenges, including issues with BaseSwap, OMNI DEX, and Merkl integration. These slowed momentum at times, but did not stop the project from continuing its journey.
+Altitude has faced challenges, including issues with BaseSwap, OMNI DEX, and Merkl integration. These slowed momentum at times, but did not stop the project from continuing its journey and in a full circle moment, todays tokenomics are almost identical to launch.
 
 Altitude has continued to build from within, with the token supported by falling supply, project-owned activity, and a focus on developing native ecosystem products.
