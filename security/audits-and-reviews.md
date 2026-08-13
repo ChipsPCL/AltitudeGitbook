@@ -12,7 +12,7 @@ Audit PDF: to be added.
 
 ### ContractWolf Audit Report
 
-[📄 Open / Download the Everest ContractWolf Audit](ContractWolf_Audit_Altitude_Staking(1).pdf)
+https://contractwolf.io/projects/altitude
 
 The audit is also independently published in ContractWolf's public audit repository:
 
