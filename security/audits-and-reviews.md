@@ -8,9 +8,15 @@ The contract remains unchanged since the audit was completed.
 
 Audit PDF: to be added.
 
-## Mountain Miner
+## Everest Vault
 
-A SolidityScan Enhanced audit report for Mountain Miner will be made available soon.
+### ContractWolf Audit Report
+
+[📄 Open / Download the Everest ContractWolf Audit](ContractWolf_Audit_Altitude_Staking.pdf)
+
+The audit is also independently published in ContractWolf's public audit repository:
+
+[View on ContractWolf GitHub](https://github.com/ContractWolf/smart-contract-audits/blob/main/ContractWolf_Audit_Altitude_Staking.pdf)
 
 ## Notes
 
