@@ -11,5 +11,5 @@ Current ecosystem focus areas include:
 * Supply reduction.
 * Mountain Wallet treasury activity.
 * Mountain Miner.
-* The Everest USDC Vault.
+* The Everest Vault.
 * Future farms, vaults, and ecosystem utilities.
