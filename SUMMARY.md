@@ -16,7 +16,8 @@
 
 ## Everest Vault
 
-* [Everest USDC Rewards Vault](everest-vault/overview.md)
+* [Everest Rewards Vault](everest-vault/overview.md)
+* [Launch & Contract Rules](everest-vault/launch-and-rules.md)
 * [How Rewards Work](everest-vault/how-rewards-work.md)
 
 ## Mountain Miner
