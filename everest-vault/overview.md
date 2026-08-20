@@ -16,6 +16,7 @@ The Everest Vault is one of those products.
 |---|---|
 | Staked Token | ALTITUDE |
 | Reward Token | ALTITUDE |
+| Min Stake | 5,000 Alt |
 | Deposit Fee | 1% |
 | Withdraw Fee | 2% |
 | Claim Fee | None |
