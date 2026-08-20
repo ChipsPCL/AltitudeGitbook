@@ -21,6 +21,6 @@ The Everest Vault is one of those products.
 | Withdraw Fee | 2% |
 | Claim Fee | None |
 | Token Vesting | None |
-| Withdrawals | Tokens can be withdrawn at any time |
+| Withdrawals | Anytime |
 
 The Everest Vault is designed to let users stake Altitude and earn rewards funded by ecosystem activity, project fees, and external revenue.
