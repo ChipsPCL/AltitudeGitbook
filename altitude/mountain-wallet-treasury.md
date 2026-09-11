@@ -6,7 +6,7 @@ The Mountain Wallet treasury is designed to support Altitude through project-own
 
 Mountain-owned liquidity means liquidity that the project controls or owns. This can help harden the token's price while also earning fees. In simple terms, the project is directly investing in itself while creating room to scale.
 
-Treasury profits may be reinvested or used to support the future of the project.
+Revenue profits are allocated the same as the taxes (see tokenomics).
 
 ## Mountain Wallet Inflows
 
