@@ -1,6 +1,6 @@
 # Welcome to Altitude
 
-Altitude is a Base-chain DeFi ecosystem built around the Altitude token, external revenue generation, deflationary supply mechanics, USDC reward flows, and ecosystem products such as Mountain Miner and the Everest Vault.
+Altitude is a Base-chain DeFi ecosystem built around the Altitude token, external revenue generation, deflationary supply mechanics and ecosystem products such as The Everest Vault.
 
 From day one, the core idea behind Altitude has been to generate external revenue that can support the project, reduce the token supply, and reward holders for their loyalty.
 
