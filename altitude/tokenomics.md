@@ -27,7 +27,7 @@ This is based burned tokens reduce the token's total supply.
 
 As part of **Altitude Restored**, ALTITUDE has returned to an active transaction tax model designed to directly support the long-term ecosystem.
 
-A **10% tax applies to buys and sells through recognised ALTITUDE liquidity pools**.
+A **10% tax applies to buys and sells through recognised legacy ALTITUDE liquidity pools**.
 
 The tax is split as follows:
 
