@@ -31,10 +31,10 @@ A **10% tax applies to buys and sells through recognised ALTITUDE liquidity pool
 
 The tax is split as follows:
 
-- **15% Buyback & Burn** — ALTITUDE is permanently removed from circulation.
-- **15% Buy & Add LP** —  Increasing Altitude Liquidity hardens and raises price floor.
-- **30% Mountain Wallet** — supports the Altitude treasury and wider project ecosystem.
-- **30% Everest Holder Rewards** — directed towards supporting the Everest reward system.
+- **5% Burn Fund** — ALTITUDE is permanently removed from circulation.
+- **40% MOL Fund** — Altitude Mountain owned Liquidity hardens and raises price floor.
+- **10% Mountain OSR Fund** — Outside revenue fund supports the Altitude treasury and wider project ecosystem.
+- **35% Everest Holder Rewards** — directed towards supporting the Everest reward system.
 - **10% Development Fee** — Covers project & development costs.
 
 This applies to both buys and sells.
