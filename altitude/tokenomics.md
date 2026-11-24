@@ -31,10 +31,9 @@ A **10% tax applies to buys and sells through recognised legacy ALTITUDE liquidi
 
 The tax is split as follows:
 
-- **5% Burn Fund** — ALTITUDE is permanently removed from circulation.
-- **40% MOL Fund** — Altitude Mountain owned Liquidity hardens and raises price floor.
-- **10% Mountain OSR Fund** — Outside revenue fund supports the Altitude treasury and wider project ecosystem.
-- **35% Everest Rewards** — directed towards supporting the Everest reward system.
+- **10% OSR Burn Fund** — Outside revenue fund supports the Altitude burn.
+- **50% MOL Fund** — Altitude Mountain owned Liquidity hardens and raises price floor.
+- **30% Everest Rewards** — directed towards supporting the Everest reward system.
 - **10% Development Fee** — Covers project & development costs.
 
 This applies to both buys and sells.
