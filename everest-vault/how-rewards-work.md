@@ -20,6 +20,5 @@ There are no claim deadlines. This means smaller holders can allow rewards to bu
 
 There is no token vesting. Users can withdraw their staked Altitude at any time, subject to the vault's withdrawal 2% fee.
 
-{% hint style="warning" %}
-The Everest Vault is in development. Final contract rules, fees, and reward mechanics should always be checked before interacting with the vault.
-{% endhint %}
+Final contract rules, fees, and reward mechanics should always be checked before interacting with the vault.
+
